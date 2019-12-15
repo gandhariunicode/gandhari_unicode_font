@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_827" format="1">
+  <unicode hex="23D4"/>
+  <advance width="1168"/>
+  <outline>
+    <contour>
+      <point x="103" y="309" type="line"/>
+      <point x="1105" y="309" type="line"/>
+      <point x="1121" y="397" type="line"/>
+      <point x="119" y="397" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="271" type="line"/>
+      <point x="381" y="194"/>
+      <point x="346" y="176"/>
+      <point x="280" y="176" type="curve" smooth="yes" name="hr01"/>
+      <point x="202" y="176"/>
+      <point x="174" y="218"/>
+      <point x="168" y="271" type="curve" name="hr02"/>
+      <point x="95" y="271" type="line"/>
+      <point x="89" y="248"/>
+      <point x="87" y="232"/>
+      <point x="87" y="223" type="curve" smooth="yes"/>
+      <point x="87" y="127"/>
+      <point x="177" y="89"/>
+      <point x="267" y="89" type="curve" smooth="yes"/>
+      <point x="387" y="89"/>
+      <point x="470" y="150"/>
+      <point x="515" y="271" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1024" y="270" type="line"/>
+      <point x="966" y="193"/>
+      <point x="931" y="175"/>
+      <point x="865" y="175" type="curve" smooth="yes"/>
+      <point x="786" y="175"/>
+      <point x="758" y="217"/>
+      <point x="752" y="270" type="curve"/>
+      <point x="680" y="270" type="line"/>
+      <point x="674" y="244"/>
+      <point x="672" y="229"/>
+      <point x="672" y="221" type="curve" smooth="yes"/>
+      <point x="672" y="126"/>
+      <point x="760" y="89"/>
+      <point x="850" y="89" type="curve" smooth="yes"/>
+      <point x="969" y="89"/>
+      <point x="1053" y="149"/>
+      <point x="1098" y="270" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="89" width="87" />
+      <hstem pos="89" width="182" />
+      <hstem pos="309" width="88" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

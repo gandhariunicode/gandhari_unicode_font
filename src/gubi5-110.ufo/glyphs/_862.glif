@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_862" format="1">
+  <unicode hex="E012"/>
+  <advance width="1752"/>
+  <outline>
+    <contour>
+      <point x="945" y="88" type="line"/>
+      <point x="1655" y="88" type="line"/>
+      <point x="1674" y="176" type="line"/>
+      <point x="965" y="176" type="line"/>
+    </contour>
+    <contour>
+      <point x="69" y="89" type="line" name="hr01"/>
+      <point x="778" y="89" type="line"/>
+      <point x="798" y="177" type="line" name="hr02"/>
+      <point x="88" y="177" type="line"/>
+    </contour>
+    <contour>
+      <point x="479" y="397" type="line"/>
+      <point x="420" y="321"/>
+      <point x="389" y="303"/>
+      <point x="321" y="303" type="curve" smooth="yes" name="hr04"/>
+      <point x="242" y="303"/>
+      <point x="213" y="344"/>
+      <point x="208" y="397" type="curve" name="hr05"/>
+      <point x="135" y="397" type="line"/>
+      <point x="129" y="374"/>
+      <point x="128" y="360"/>
+      <point x="128" y="350" type="curve" smooth="yes"/>
+      <point x="128" y="253"/>
+      <point x="219" y="215"/>
+      <point x="306" y="215" type="curve" smooth="yes"/>
+      <point x="426" y="215"/>
+      <point x="509" y="276"/>
+      <point x="555" y="397" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1648" y="397" type="line"/>
+      <point x="1589" y="321"/>
+      <point x="1558" y="303"/>
+      <point x="1490" y="303" type="curve" smooth="yes" name="hr06"/>
+      <point x="1410" y="303"/>
+      <point x="1382" y="344"/>
+      <point x="1376" y="397" type="curve" name="hr07"/>
+      <point x="1304" y="397" type="line"/>
+      <point x="1298" y="374"/>
+      <point x="1296" y="360"/>
+      <point x="1296" y="350" type="curve" smooth="yes"/>
+      <point x="1296" y="253"/>
+      <point x="1388" y="215"/>
+      <point x="1475" y="215" type="curve" smooth="yes"/>
+      <point x="1595" y="215"/>
+      <point x="1678" y="276"/>
+      <point x="1722" y="397" type="curve"/>
+    </contour>
+    <contour>
+      <point x="684" y="263" type="line" name="hr08"/>
+      <point x="1112" y="263" type="line"/>
+      <point x="1132" y="351" type="line"/>
+      <point x="704" y="351" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="88" width="89" />
+      <hstem pos="110" width="-21" />
+      <hstem pos="215" width="88" />
+      <hstem pos="215" width="182" />
+      <hstem pos="263" width="88" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="1">
+  <unicode hex="0384"/>
+  <advance width="258"/>
+  <outline>
+    <contour>
+      <point x="22" y="492" type="line"/>
+      <point x="100" y="492" type="line"/>
+      <point x="200" y="610" type="line"/>
+      <point x="219" y="631"/>
+      <point x="229" y="644"/>
+      <point x="234" y="665" type="curve"/>
+      <point x="234" y="666"/>
+      <point x="235" y="669"/>
+      <point x="235" y="671" type="curve"/>
+      <point x="235" y="698"/>
+      <point x="212" y="705"/>
+      <point x="192" y="705" type="curve" smooth="yes"/>
+      <point x="161" y="705"/>
+      <point x="145" y="691"/>
+      <point x="128" y="664" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="513" width="-21" />
+      <hstem pos="705" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

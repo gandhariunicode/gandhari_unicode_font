@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacron" format="1">
+  <unicode hex="014C"/>
+  <advance width="669"/>
+  <outline>
+    <contour>
+      <point x="432" y="691" type="curve" smooth="yes"/>
+      <point x="218" y="691"/>
+      <point x="0" y="446"/>
+      <point x="0" y="235" type="curve" smooth="yes"/>
+      <point x="0" y="86"/>
+      <point x="99" y="-18"/>
+      <point x="237" y="-18" type="curve" smooth="yes"/>
+      <point x="454" y="-18"/>
+      <point x="664" y="197"/>
+      <point x="676" y="429" type="curve"/>
+      <point x="676" y="436" type="line" smooth="yes"/>
+      <point x="676" y="589"/>
+      <point x="574" y="691"/>
+    </contour>
+    <contour>
+      <point x="423" y="630" type="curve" smooth="yes"/>
+      <point x="489" y="630"/>
+      <point x="533" y="579"/>
+      <point x="533" y="494" type="curve" smooth="yes"/>
+      <point x="533" y="298"/>
+      <point x="405" y="44"/>
+      <point x="254" y="44" type="curve" smooth="yes"/>
+      <point x="183" y="44"/>
+      <point x="144" y="99"/>
+      <point x="144" y="198" type="curve" smooth="yes"/>
+      <point x="144" y="383"/>
+      <point x="274" y="630"/>
+    </contour>
+    <contour>
+      <point x="626" y="820" type="line"/>
+      <point x="286" y="820" type="line"/>
+      <point x="270" y="740" type="line"/>
+      <point x="609" y="740" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-18" width="62" />
+      <hstem pos="630" width="61" />
+      <hstem pos="740" width="80" />
+      <vstem pos="0" width="144" />
+      <vstem pos="533" width="143" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

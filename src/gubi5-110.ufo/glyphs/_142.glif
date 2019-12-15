@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_142" format="1">
+  <unicode hex="0365"/>
+  <outline>
+    <contour>
+      <point x="-93" y="593" type="line"/>
+      <point x="-109" y="571"/>
+      <point x="-119" y="557"/>
+      <point x="-127" y="548" type="curve"/>
+      <point x="-127" y="548"/>
+      <point x="-126" y="550"/>
+      <point x="-126" y="551" type="curve"/>
+      <point x="-125" y="554"/>
+      <point x="-123" y="559"/>
+      <point x="-122" y="563" type="curve" smooth="yes"/>
+      <point x="-67" y="768" type="line"/>
+      <point x="-88" y="778" type="line"/>
+      <point x="-98" y="776"/>
+      <point x="-112" y="773"/>
+      <point x="-119" y="772" type="curve" smooth="yes"/>
+      <point x="-159" y="764"/>
+      <point x="-172" y="762"/>
+      <point x="-205" y="760" type="curve"/>
+      <point x="-205" y="724" type="line"/>
+      <point x="-173" y="723"/>
+      <point x="-167" y="723"/>
+      <point x="-167" y="723" type="curve"/>
+      <point x="-167" y="718"/>
+      <point x="-168" y="709"/>
+      <point x="-200" y="595" type="curve" smooth="yes"/>
+      <point x="-210" y="560"/>
+      <point x="-214" y="539"/>
+      <point x="-214" y="528" type="curve" smooth="yes"/>
+      <point x="-214" y="495"/>
+      <point x="-200" y="478"/>
+      <point x="-168" y="478" type="curve" smooth="yes"/>
+      <point x="-130" y="478"/>
+      <point x="-104" y="502"/>
+      <point x="-62" y="562" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-96" y="904" type="curve" smooth="yes"/>
+      <point x="-125" y="904"/>
+      <point x="-144" y="885"/>
+      <point x="-144" y="861" type="curve" smooth="yes"/>
+      <point x="-144" y="837"/>
+      <point x="-125" y="817"/>
+      <point x="-96" y="817" type="curve" smooth="yes"/>
+      <point x="-69" y="817"/>
+      <point x="-48" y="837"/>
+      <point x="-48" y="860" type="curve" smooth="yes"/>
+      <point x="-48" y="884"/>
+      <point x="-70" y="904"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="499" width="-21" />
+      <hstem pos="817" width="87" />
+      <vstem pos="-144" width="96" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

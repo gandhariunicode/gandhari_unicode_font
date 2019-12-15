@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2015" format="1">
+  <unicode hex="2015"/>
+  <advance width="1279"/>
+  <outline>
+    <contour>
+      <point x="47" y="296" type="line"/>
+      <point x="27" y="207" type="line"/>
+      <point x="1232" y="207" type="line"/>
+      <point x="1252" y="296" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="207" width="89" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

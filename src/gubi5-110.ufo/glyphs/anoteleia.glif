@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anoteleia" format="1">
+  <unicode hex="0387"/>
+  <advance width="205"/>
+  <outline>
+    <contour>
+      <point x="113" y="479" type="curve" smooth="yes"/>
+      <point x="73" y="479"/>
+      <point x="35" y="451"/>
+      <point x="27" y="411" type="curve" smooth="yes"/>
+      <point x="26" y="407"/>
+      <point x="26" y="401"/>
+      <point x="26" y="396" type="curve" smooth="yes"/>
+      <point x="26" y="363"/>
+      <point x="51" y="338"/>
+      <point x="90" y="338" type="curve" smooth="yes"/>
+      <point x="132" y="338"/>
+      <point x="170" y="367"/>
+      <point x="178" y="406" type="curve" smooth="yes"/>
+      <point x="179" y="410"/>
+      <point x="179" y="415"/>
+      <point x="179" y="421" type="curve" smooth="yes"/>
+      <point x="179" y="455"/>
+      <point x="153" y="479"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="338" width="141" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

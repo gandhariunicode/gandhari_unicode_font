@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="1">
+  <unicode hex="007C"/>
+  <advance width="124"/>
+  <outline>
+    <contour>
+      <point x="27" y="-206" type="line"/>
+      <point x="96" y="-206" type="line"/>
+      <point x="96" y="820" type="line"/>
+      <point x="27" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-185" width="-21" />
+      <hstem pos="820" width="-20" />
+      <vstem pos="27" width="69" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

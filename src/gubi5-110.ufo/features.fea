@@ -1,0 +1,297 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem bopo dflt;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+@class10 = [_1772 _1772 _1768 _1768 _1766 _1766 _1774 _1774 _122 _122 _123 _123 _1769 _1769 _1767 _1767 _1770 _1770 _1775 _1775 _124 _124 _1771 _1771 _1773 _1773 _1776 _1776 _1777 _1777];
+feature liga {
+#doubleringbelow _131  #barbelow uni0331   #turnedbrevebelow uni032F
+#caronbelow uni032C    #dotbelow uni0323    #ringbelow uni0325   #grave uni0300
+#acute uni0301   #circumflex uni0302   #tilde uni0303   #macron uni0304
+#breve uni0306   #diresis uni0308    #candrabindu uni0310    #caron uni030C  
+  #zwj uni200D
+
+	sub _371 uni0331 by uniE81A ;
+	sub _372 uni0331 by uniE81B ;
+	sub _371 uni0331 uni0304 by uniE81C ;
+	sub _372 uni0331 uni0304 by uniE81D ;
+	sub _371 uni0304 uni0331 by uniE81C ;
+	sub _372 uni0304 uni0331 by uniE81D ;
+	sub p _136 by uniE046 ;
+	sub uni027B uni0329 by uniE056 ;
+	sub a uni02DE by uniE057 ;
+	sub i uni02DE by uniE058 ;
+	sub u uni02DE by uniE059 ;
+	sub A uni0304 by Amacron ;
+	sub a uni0304 by amacron ;
+	sub E uni0304 by Emacron ;
+	sub e uni0304 by emacron ;
+	sub I uni0304 by Imacron ;
+	sub i uni0304 by imacron ;
+	sub O uni0304 by Omacron ;
+	sub o uni0304 by omacron ;
+	sub U uni0304 by Umacron ;
+	sub u uni0304 by umacron ;
+
+	sub Amacron uni030A by uniE030 ;
+	sub amacron uni030A by uniE031 ;
+	sub Aogonek uni0307 by uniE032 ;
+	sub aogonek uni0307 by uniE033 ;
+	sub _44 uni0328 by uniE032 ;
+	sub _45 uni0328 by uniE033 ;
+	sub uni018F uni0304 by uniE034 ;
+	sub X uni0301 by uniE035 ;
+	sub x uni0301 by uniE036 ;
+	sub T uni0330 by uniE039 ;
+	sub t uni0330 by uniE03A ;
+	sub Eng uni0301 by uniE03B ;
+	sub eng uni0301 by uniE03C ;
+	sub M uni0328 by uniE03F ;
+	sub m uni0328 by uniE040 ;
+	sub Scaron uni0301 by uniE041 ;
+	sub scaron uni0301 by uniE042 ;
+	sub Scaron uni0323 by uniE043 ;
+	sub scaron uni0323 by uniE044 ;
+	sub Amacron uni0328 by uniE050 ;
+	sub amacron uni0328 by uniE051 ;
+	sub Imacron uni0328 by uniE052 ;
+	sub imacron uni0328 by uniE053 ;
+	sub Umacron uni0328 by uniE054 ;
+	sub umacron uni0328 by uniE055 ;
+	sub Aogonek uni0304 by uniE050 ;
+	sub aogonek uni0304 by uniE051 ;
+	sub Iogonek uni0304 by uniE052 ;
+	sub iogonek uni0304 by uniE053 ;
+	sub Uogonek uni0304 by uniE054 ;
+	sub uogonek uni0304 by uniE055 ;
+	sub C uni0331 by uniE017 ;
+	sub c uni0331 by uniE018 ;
+	sub _285 uni0331 by uniE019 ;
+	sub _286 uni0331 by uniE01A ;
+	sub S uni032E by uniE01B ;
+	sub s uni032E by uniE01C ;
+  sub M uni0306 by _863 ;
+  sub m uni0306 by _864 ;
+  sub N uni0306 by _865 ;
+  sub n uni0306 by _866 ;
+  sub G uni0331 by _879 ;
+  sub g uni0331 by _880 ;
+  sub J  uni030C by _881 ;
+  sub J uni0301 by uniE802;
+  sub j uni0301 by uniE803;
+  sub J uni0304 by uniE804;
+  sub j uni0304 by uniE805;
+  sub L uni0325 by _882 ;
+  sub l uni0325 by _883 ;
+  sub M uni0304 by _884 ;
+  sub m uni0304 by _885 ;
+  sub M uni0325 by _886 ;
+  sub m uni0325 by _887 ;
+  sub N uni0325 by _888 ;
+  sub n uni0325 by _889 ;
+  sub N uni0304 by _890 ;
+  sub n uni0304 by _891 ;
+  sub Sacute uni0304 by _892 ;
+  sub sacute uni0304 by _893 ;
+  sub _371 uni0304 by _894 ;
+  sub _372 uni0304 by _895 ;
+  sub S uni0304 by uniE820 ;
+  sub s uni0304 by uniE821 ;
+  sub S uni0331 by uniE822 ;
+  sub s uni0331 by uniE823 ;
+  sub J uni0331 by _E7F2h ;
+  sub j uni0331 by _E7F3h ;
+  sub P uni0331 by _E7F4h ;
+  sub p uni0331 by _E7F5h ;
+  sub Y uni0331 by _E7F6h ;
+  sub y uni0331 by _E7F7h ;
+  sub _381 uni0301 by _896 ;
+  sub _382 uni0301 by uniE825 ;
+  sub V uni0301 by uniE826 ;
+  sub v uni0301 by uniE827 ;
+  sub C uni0304 by uniE828 ;
+  sub c uni0304 by uniE829 ;
+  sub D uni0301 by uniE82A ;
+  sub d uni0301 by uniE82B ;
+  sub _285 uni0301 by uniE82C ;
+  sub _286 uni0301 by _897 ;
+  sub _4 uni0304 by _898 ;
+  sub _5 uni0304 by _899 ;
+  sub H uni0301 by _900 ;
+  sub h uni0301 by _901 ;
+  sub R uni0325 by _902 ;
+  sub r uni0325 by _903 ;
+  sub V uni0304 by _904 ;
+  sub v uni0304 by _905 ;
+  sub V uni0306 by _906 ;
+  sub v uni0306 by _907 ;
+  sub H uni0304 by _908 ;
+  sub h uni0304 by _909 ;
+  sub A _131 by _910 ;
+  sub a _131 by _911 ;
+  sub Amacron uni0306 by _912 ;
+  sub amacron uni0306 by _913 ;
+  sub Amacron uni0303 by _914 ;
+  sub amacron uni0303 by _915 ;
+  sub Amacron uni0300 by _916 ;
+  sub amacron uni0300 by _917 ;
+  sub Amacron uni0301 by _918 ;
+  sub amacron uni0301 by _919 ;
+  sub Imacron uni0306 by _920 ;
+  sub imacron uni0306 by _921 ;
+  sub Imacron uni0303 by _922 ;
+  sub imacron uni0303 by _923 ;
+  sub Imacron uni0300 by _924 ;
+  sub imacron uni0300 by _925 ;
+  sub Imacron uni0301 by _926 ;
+  sub imacron uni0301 by _927 ;
+  sub U _131 by _928 ;
+  sub u _131 by _929 ;
+  sub Umacron uni0306 by _930 ;
+  sub umacron uni0306 by _931 ;
+  sub Umacron uni0303 by _932 ;
+  sub umacron uni0303 by _933 ;
+  sub Umacron uni0300 by _934 ;
+  sub umacron uni0300 by _935 ;
+  sub Umacron uni0301 by _936 ;
+  sub umacron uni0301 by _937 ;
+  sub R uni0325 uni0300 by _938 ;#3
+  sub r uni0325 uni0300 by _939 ;#3
+  sub R uni0325 uni0301 by _940 ;#3
+  sub r uni0325 uni0301 by _941 ;#3
+  sub R uni0325 uni0304 uni0301 by _942 ;#4
+  sub r uni0325 uni0304 uni0301 by _943 ;#4
+  sub L uni0303 by _944 ;
+  sub l uni0303 by _945 ;
+  sub L uni0310 by _946 ;
+  sub l uni0310 by _947 ;
+  sub M uni0310 by _948 ;
+  sub m uni0310 by _949 ;
+  sub T uni0301 by _950 ;
+  sub t uni0301 by _951 ;
+  sub Sacute uni0331 by _952 ;
+  sub sacute uni0331 by _953 ;
+  sub P uni0304 by _954 ;
+  sub p uni0304 by _955 ;
+  sub Atilde uni0301 by _957 ;
+  sub atilde uni0301 by _958 ;
+  sub a uni032F by _959 ;
+  sub abreve uni0301 by _960 ;
+  sub abreve uni0303 by _961 ;
+  sub acircumflex uni0301 by _962 ;
+  sub adieresis uni0301 by _963 ;
+  sub adieresis uni0303 by _964 ;
+  sub adieresis uni0303 uni0301 by _965 ;#3
+  sub adieresis uni0304 uni0301 by _966 ;#3
+  sub adieresis uni0304 uni0303 by _967 ;#3
+  sub amacron uni0303 uni0301 by _968 ; #3
+  sub aring uni0303 by _969 ;
+  sub aring uni0304 by _970 ;
+  sub i uni032F by _971 ;
+  sub ibreve uni0301 by _972 ;
+  sub itilde uni0301 by _973 ;
+  sub u uni032F by _974 ;
+  sub ubreve uni0301 by _975 ;
+  sub ubreve uni0303 by _976 ;
+  sub udieresis uni0303 by _977 ;
+  sub udieresis uni0303 uni0301 by _978 ;#3
+  sub utilde uni0301 by _979 ;
+  sub uring uni0304 by _980 ;
+  sub r uni032C by _981 ;
+  sub e uni032F by _982 ;
+  sub ebreve uni0301 by _983 ;
+  sub emacron uni0306 by _984 ;
+  sub edieresis uni0301 by _985 ;
+  sub edieresis uni0306 by _986 ;
+  sub _452 uni0301 by _987 ;
+  sub emacron uni0301 by _988 ;
+  sub emacron uni0303 by _989 ;
+  sub emacron uni0303 uni0301 by _990 ;#3
+  sub uni0259 uni0301 by _991 ;
+  sub uni0259 uni0303 by _992 ;
+  sub uni0259 uni0303 uni0301 by _993 ;#3
+  sub uni0259 uni0304 by _994 ;
+  sub uni0259 uni0304 uni0301 by _995 ;#3
+  sub uni0259 uni0304 uni0303 by _996 ;#3
+  sub uni025B uni0301 by _997 ;
+  sub uni025B uni0303 by _998 ;
+  sub uni025B uni0304 by _999 ;
+  sub uni025B uni0304 uni0301 by _1000 ;#3
+  sub uni025B uni0304 uni0303 by _1001 ;#3
+  sub o uni032F by _1002 ;
+  sub obreve uni0301 by _1003 ;
+  sub ocircumflex uni0303 by _1004 ;
+  sub otilde uni0301 by _1005 ;
+  sub odieresis uni0301 by _1006 ;
+  sub odieresis uni0306 by _1007 ;
+  sub odieresis uni0304 by _1008 ;
+  sub odieresis uni0304 uni0301 by _1009 ;#3
+  sub omacron uni0301 by _1010 ;
+  sub omacron uni0306 by _1011 ;
+  sub omacron uni0303 by _1012 ;
+  sub omacron uni0303 uni0301 by _1013 ;
+  sub odieresis uni0323 by _1014 ;
+  sub obreve uni0323 by _1015 ;
+  sub omacron uni0323 by _1016 ;
+  sub omacron uni0301 uni0323 by _1017 ;#3
+  sub omacron uni0303 uni0323 by _1018 ;#3
+  sub uni0254 uni0303 by _1019 ;
+  sub uni0254 uni0304 by _1020 ;
+  sub uni0254 uni0304 uni0301 by _1021 ;#3
+  sub uni0254 uni0304 uni0303 by _1022 ;#3
+  sub c uni0323 by _1023 ;
+  sub j uni0308 by _1024 ;
+  sub j uni0323 by _1025 ;
+  sub uni028C uni0301 by _1026 ;
+  sub uni028C uni0303 by _1027 ;
+  sub uni028B uni0301 by _1028 ;
+  sub x uni030C by _1029 ;
+  sub o uni0323 by _1030 ;
+  sub H uni0331 by _1031 ;
+  sub R uni0325 uni0304 by _1032 ;#3
+  sub r uni0325 uni0304 by _1033 ;#3
+  sub L uni0325 uni0304 by _1034 ;#3
+  sub l uni0325 uni0304 by _1035 ;#3
+  sub R uni0325 uni0304 uni0306 by _1036 ;#4
+  sub r uni0325 uni0304 uni0306 by _1037 ;#4
+  sub V uni0304 uni0306 by _1038 ;
+  sub v uni0304 uni0306 by _1039 ;
+  sub A uni200D V by _1040 ;
+  sub a uni200D v by _1041 ;
+  sub A uni200D R by _1042 ;
+  sub a uni200D r by _1043 ;
+  sub A uni200D O by _1044 ;
+  sub a uni200D o by _1045 ;
+
+# Standard Latin Ligatures
+  sub f f i by ffi ;
+  sub f f l by ffl ;
+  sub f f by ff ;
+  sub f i by fi ;
+  sub f l by fl ;
+} liga;
+
+feature dlig {
+  sub _372 _382 by _1046;
+  sub s t by uniFB06;
+  sub f t by uniFB05;
+} dlig;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

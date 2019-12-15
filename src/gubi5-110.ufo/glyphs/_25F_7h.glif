@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_25F7h" format="1">
+  <unicode hex="25F7"/>
+  <advance width="788"/>
+  <outline>
+    <contour>
+      <point x="541" y="714" type="curve" smooth="yes"/>
+      <point x="339" y="714"/>
+      <point x="144" y="552"/>
+      <point x="102" y="351" type="curve" smooth="yes"/>
+      <point x="60" y="149"/>
+      <point x="188" y="-14"/>
+      <point x="390" y="-14" type="curve" smooth="yes"/>
+      <point x="592" y="-14"/>
+      <point x="788" y="149"/>
+      <point x="830" y="351" type="curve" smooth="yes"/>
+      <point x="872" y="552"/>
+      <point x="743" y="714"/>
+    </contour>
+    <contour>
+      <point x="398" y="28" type="curve" smooth="yes"/>
+      <point x="222" y="28"/>
+      <point x="108" y="175"/>
+      <point x="144" y="351" type="curve" smooth="yes"/>
+      <point x="179" y="518"/>
+      <point x="338" y="657"/>
+      <point x="505" y="671" type="curve"/>
+      <point x="433" y="326" type="line"/>
+      <point x="782" y="326" type="line"/>
+      <point x="735" y="162"/>
+      <point x="565" y="28"/>
+    </contour>
+    <contour>
+      <point x="793" y="376" type="curve"/>
+      <point x="494" y="376" type="line"/>
+      <point x="555" y="671" type="line"/>
+      <point x="709" y="660"/>
+      <point x="812" y="533"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>393</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-14" width="42" />
+      <hstem pos="326" width="50" />
+      <hstem pos="671" width="43" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
