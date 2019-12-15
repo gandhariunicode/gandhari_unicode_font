@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2194" format="1">
+  <unicode hex="2194"/>
+  <advance width="989"/>
+  <outline>
+    <contour>
+      <point x="744" y="54" type="line"/>
+      <point x="821" y="143"/>
+      <point x="893" y="204"/>
+      <point x="959" y="233" type="curve"/>
+      <point x="959" y="264" type="line"/>
+      <point x="889" y="299"/>
+      <point x="817" y="360"/>
+      <point x="743" y="447" type="curve" name="hr01"/>
+      <point x="670" y="447" type="line"/>
+      <point x="704" y="378"/>
+      <point x="732" y="325"/>
+      <point x="755" y="290" type="curve" name="hr02"/>
+      <point x="230" y="290" type="line"/>
+      <point x="257" y="334"/>
+      <point x="291" y="396"/>
+      <point x="317" y="447" type="curve" name="hr03"/>
+      <point x="245" y="447" type="line"/>
+      <point x="167" y="358"/>
+      <point x="96" y="297"/>
+      <point x="30" y="268" type="curve"/>
+      <point x="30" y="238" type="line"/>
+      <point x="99" y="202"/>
+      <point x="172" y="141"/>
+      <point x="246" y="54" type="curve" name="hr04"/>
+      <point x="319" y="54" type="line"/>
+      <point x="285" y="121"/>
+      <point x="256" y="173"/>
+      <point x="232" y="210" type="curve" name="hr05"/>
+      <point x="756" y="210" type="line"/>
+      <point x="731" y="168"/>
+      <point x="703" y="116"/>
+      <point x="671" y="54" type="curve" name="hr06"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="210" width="237" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="54" width="236" />
+    </hintset>
+    <hintset pointTag="hr03">
+      <hstem pos="210" width="237" />
+    </hintset>
+    <hintset pointTag="hr04">
+      <hstem pos="54" width="236" />
+    </hintset>
+    <hintset pointTag="hr05">
+      <hstem pos="210" width="80" />
+    </hintset>
+    <hintset pointTag="hr06">
+      <hstem pos="54" width="236" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

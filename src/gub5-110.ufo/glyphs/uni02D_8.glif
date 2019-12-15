@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02D8" format="1">
+  <unicode hex="02D8"/>
+  <advance width="418"/>
+  <outline>
+    <contour>
+      <point x="303" y="696" type="line"/>
+      <point x="293" y="636"/>
+      <point x="256" y="600"/>
+      <point x="208" y="600" type="curve" smooth="yes" name="hr01"/>
+      <point x="161" y="600"/>
+      <point x="126" y="636"/>
+      <point x="115" y="696" type="curve" name="hr02"/>
+      <point x="50" y="696" type="line"/>
+      <point x="57" y="578"/>
+      <point x="118" y="508"/>
+      <point x="208" y="508" type="curve" smooth="yes"/>
+      <point x="302" y="508"/>
+      <point x="360" y="578"/>
+      <point x="368" y="696" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="508" width="92" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="508" width="188" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

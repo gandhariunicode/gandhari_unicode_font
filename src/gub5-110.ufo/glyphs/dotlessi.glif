@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <unicode hex="0131"/>
+  <advance width="331"/>
+  <outline>
+    <contour>
+      <point x="30" y="391" type="line"/>
+      <point x="34" y="391"/>
+      <point x="57" y="392"/>
+      <point x="61" y="392" type="curve" smooth="yes"/>
+      <point x="69" y="393"/>
+      <point x="75" y="393"/>
+      <point x="79" y="393" type="curve" smooth="yes"/>
+      <point x="100" y="393"/>
+      <point x="105" y="383"/>
+      <point x="105" y="339" type="curve" smooth="yes" name="hr01"/>
+      <point x="105" y="110" type="line" smooth="yes"/>
+      <point x="105" y="63"/>
+      <point x="92" y="45"/>
+      <point x="54" y="45" type="curve" smooth="yes"/>
+      <point x="30" y="45" type="line" name="hr02"/>
+      <point x="30" y="0" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="301" y="45" type="line"/>
+      <point x="278" y="45" type="line" smooth="yes"/>
+      <point x="239" y="45"/>
+      <point x="226" y="63"/>
+      <point x="226" y="110" type="curve" smooth="yes"/>
+      <point x="226" y="501" type="line"/>
+      <point x="210" y="492"/>
+      <point x="193" y="484"/>
+      <point x="193" y="484" type="curve"/>
+      <point x="191" y="482"/>
+      <point x="185" y="478"/>
+      <point x="30" y="433" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="0" width="45" />
+      <hstem pos="501" width="-20" />
+      <vstem pos="105" width="121" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="0" width="45" />
+      <hstem pos="501" width="-20" />
+      <vstem pos="30" width="196" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

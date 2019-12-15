@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_25FDh" format="1">
+  <unicode hex="25FD"/>
+  <advance width="694"/>
+  <outline>
+    <contour>
+      <point x="200" y="201" type="line"/>
+      <point x="493" y="201" type="line"/>
+      <point x="493" y="494" type="line"/>
+      <point x="200" y="494" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="250" type="line"/>
+      <point x="250" y="454" type="line"/>
+      <point x="454" y="454" type="line"/>
+      <point x="454" y="250" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>694</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>644</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>50</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>594</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>494</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>100</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>200</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>454</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>250</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>694</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>50</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>100</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>150</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>200</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>250</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="201" width="49" />
+      <hstem pos="454" width="40" />
+      <vstem pos="200" width="50" />
+      <vstem pos="454" width="39" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

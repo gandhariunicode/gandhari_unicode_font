@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_E7F6h" format="1">
+  <unicode hex="E7F6"/>
+  <advance width="722"/>
+  <outline>
+    <contour>
+      <point x="248" y="631" type="line"/>
+      <point x="248" y="642"/>
+      <point x="261" y="645"/>
+      <point x="319" y="645" type="curve"/>
+      <point x="319" y="694" type="line"/>
+      <point x="0" y="694" type="line"/>
+      <point x="0" y="646" type="line"/>
+      <point x="46" y="646"/>
+      <point x="76" y="624"/>
+      <point x="114" y="567" type="curve"/>
+      <point x="291" y="305" type="line"/>
+      <point x="291" y="124" type="line"/>
+      <point x="291" y="62"/>
+      <point x="274" y="57"/>
+      <point x="200" y="46" type="curve"/>
+      <point x="200" y="0" type="line"/>
+      <point x="523" y="0" type="line"/>
+      <point x="523" y="46" type="line"/>
+      <point x="451" y="54"/>
+      <point x="433" y="63"/>
+      <point x="433" y="124" type="curve"/>
+      <point x="433" y="315" type="line"/>
+      <point x="590" y="552" type="line"/>
+      <point x="627" y="609"/>
+      <point x="663" y="638"/>
+      <point x="722" y="648" type="curve"/>
+      <point x="722" y="694" type="line"/>
+      <point x="462" y="694" type="line"/>
+      <point x="462" y="645" type="line"/>
+      <point x="513" y="645"/>
+      <point x="530" y="641"/>
+      <point x="530" y="628" type="curve"/>
+      <point x="530" y="618"/>
+      <point x="525" y="606"/>
+      <point x="515" y="591" type="curve"/>
+      <point x="391" y="398" type="line"/>
+      <point x="268" y="586" type="line"/>
+      <point x="255" y="605"/>
+      <point x="248" y="621"/>
+      <point x="248" y="631" type="curve"/>
+    </contour>
+    <contour>
+      <point x="190" y="-114" type="line"/>
+      <point x="190" y="-198" type="line"/>
+      <point x="541" y="-198" type="line"/>
+      <point x="541" y="-114" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>503</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-198" width="84" />
+      <hstem pos="21" width="-21" />
+      <hstem pos="645" width="49" />
+      <vstem pos="291" width="142" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

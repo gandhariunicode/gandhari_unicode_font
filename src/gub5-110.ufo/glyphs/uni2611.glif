@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2611" format="1">
+  <unicode hex="2611"/>
+  <advance width="754"/>
+  <outline>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="737" y="0" type="line"/>
+      <point x="737" y="690" type="line"/>
+      <point x="10" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="51" type="line"/>
+      <point x="98" y="639" type="line"/>
+      <point x="649" y="639" type="line"/>
+      <point x="649" y="51" type="line"/>
+    </contour>
+    <contour>
+      <point x="644" y="562" type="line"/>
+      <point x="584" y="618" type="line"/>
+      <point x="483" y="484"/>
+      <point x="366" y="332"/>
+      <point x="263" y="197" type="curve"/>
+      <point x="160" y="306" type="line"/>
+      <point x="104" y="252" type="line"/>
+      <point x="275" y="72" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>315</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>97</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>607</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>594</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>375</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>632</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>-128</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>122</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="0" width="51" />
+      <hstem pos="639" width="51" />
+      <vstem pos="10" width="88" />
+      <vstem pos="649" width="88" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

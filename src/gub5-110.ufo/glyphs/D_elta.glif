@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="1">
+  <unicode hex="0394"/>
+  <advance width="743"/>
+  <outline>
+    <contour>
+      <point x="713" y="0" type="line"/>
+      <point x="388" y="707" type="line"/>
+      <point x="356" y="707" type="line"/>
+      <point x="30" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="488" type="line"/>
+      <point x="535" y="65" type="line"/>
+      <point x="140" y="65" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="0" width="65" />
+      <hstem pos="707" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

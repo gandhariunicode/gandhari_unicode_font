@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030D" format="1">
+  <unicode hex="030D"/>
+  <outline>
+    <contour>
+      <point x="-266" y="648" type="line"/>
+      <point x="-266" y="449" type="line"/>
+      <point x="-177" y="449" type="line"/>
+      <point x="-177" y="648" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="449" width="199" />
+      <vstem pos="-266" width="89" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

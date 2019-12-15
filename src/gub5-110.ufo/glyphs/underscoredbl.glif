@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscoredbl" format="1">
+  <unicode hex="2017"/>
+  <advance width="594"/>
+  <outline>
+    <contour>
+      <point x="30" y="-110" type="line"/>
+      <point x="564" y="-110" type="line"/>
+      <point x="564" y="-26" type="line"/>
+      <point x="30" y="-26" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="-217" type="line"/>
+      <point x="564" y="-217" type="line"/>
+      <point x="564" y="-135" type="line"/>
+      <point x="30" y="-135" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-217" width="82" />
+      <hstem pos="-110" width="84" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
