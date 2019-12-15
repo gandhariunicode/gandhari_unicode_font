@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni25CD" format="1">
+  <unicode hex="25CD"/>
+  <advance width="788"/>
+  <outline>
+    <contour>
+      <point x="0" y="363" type="line"/>
+      <point x="0" y="161"/>
+      <point x="162" y="0"/>
+      <point x="363" y="0" type="curve"/>
+      <point x="565" y="0"/>
+      <point x="728" y="161"/>
+      <point x="728" y="363" type="curve"/>
+      <point x="728" y="565"/>
+      <point x="565" y="728"/>
+      <point x="363" y="728" type="curve"/>
+      <point x="162" y="728"/>
+      <point x="0" y="565"/>
+      <point x="0" y="363" type="curve"/>
+    </contour>
+    <contour>
+      <point x="338" y="685" type="line"/>
+      <point x="338" y="43" type="line"/>
+      <point x="325" y="44"/>
+      <point x="313" y="45"/>
+      <point x="301" y="48" type="curve"/>
+      <point x="301" y="680" type="line"/>
+      <point x="313" y="682"/>
+      <point x="325" y="684"/>
+      <point x="338" y="685" type="curve"/>
+    </contour>
+    <contour>
+      <point x="388" y="43" type="line"/>
+      <point x="388" y="685" type="line"/>
+      <point x="400" y="684"/>
+      <point x="413" y="682"/>
+      <point x="425" y="679" type="curve"/>
+      <point x="425" y="47" type="line"/>
+      <point x="413" y="45"/>
+      <point x="400" y="44"/>
+      <point x="388" y="43" type="curve"/>
+    </contour>
+    <contour>
+      <point x="251" y="665" type="line"/>
+      <point x="251" y="62" type="line"/>
+      <point x="238" y="67"/>
+      <point x="226" y="72"/>
+      <point x="214" y="79" type="curve"/>
+      <point x="214" y="648" type="line"/>
+      <point x="226" y="654"/>
+      <point x="238" y="660"/>
+      <point x="251" y="665" type="curve"/>
+    </contour>
+    <contour>
+      <point x="512" y="648" type="line"/>
+      <point x="512" y="79" type="line"/>
+      <point x="500" y="72"/>
+      <point x="487" y="67"/>
+      <point x="475" y="62" type="curve"/>
+      <point x="475" y="665" type="line"/>
+      <point x="487" y="660"/>
+      <point x="500" y="654"/>
+      <point x="512" y="648" type="curve"/>
+    </contour>
+    <contour>
+      <point x="164" y="615" type="line"/>
+      <point x="164" y="111" type="line"/>
+      <point x="151" y="121"/>
+      <point x="138" y="133"/>
+      <point x="127" y="145" type="curve"/>
+      <point x="127" y="580" type="line"/>
+      <point x="137" y="593"/>
+      <point x="150" y="604"/>
+      <point x="164" y="615" type="curve"/>
+    </contour>
+    <contour>
+      <point x="599" y="581" type="line"/>
+      <point x="599" y="145" type="line"/>
+      <point x="587" y="133"/>
+      <point x="575" y="122"/>
+      <point x="562" y="111" type="curve"/>
+      <point x="562" y="615" type="line"/>
+      <point x="575" y="604"/>
+      <point x="587" y="593"/>
+      <point x="599" y="581" type="curve"/>
+    </contour>
+    <contour>
+      <point x="686" y="363" type="line"/>
+      <point x="686" y="310"/>
+      <point x="672" y="259"/>
+      <point x="649" y="215" type="curve"/>
+      <point x="649" y="510" type="line"/>
+      <point x="672" y="466"/>
+      <point x="686" y="415"/>
+      <point x="686" y="363" type="curve"/>
+    </contour>
+    <contour>
+      <point x="42" y="363" type="line"/>
+      <point x="42" y="414"/>
+      <point x="54" y="463"/>
+      <point x="77" y="507" type="curve"/>
+      <point x="77" y="217" type="line"/>
+      <point x="54" y="261"/>
+      <point x="42" y="310"/>
+      <point x="42" y="363" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>276</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>189</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>624</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>892</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>102</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="21" width="-21" />
+      <hstem pos="728" width="-20" />
+      <vstem pos="0" width="42" />
+      <vstem pos="77" width="50" />
+      <vstem pos="164" width="50" />
+      <vstem pos="251" width="50" />
+      <vstem pos="338" width="50" />
+      <vstem pos="425" width="50" />
+      <vstem pos="512" width="50" />
+      <vstem pos="599" width="50" />
+      <vstem pos="686" width="42" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

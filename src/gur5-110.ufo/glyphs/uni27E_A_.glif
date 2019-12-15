@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni27EA" format="1">
+  <unicode hex="27EA"/>
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="307" y="-62" type="line"/>
+      <point x="96" y="257" type="line"/>
+      <point x="307" y="577" type="line"/>
+      <point x="307" y="697" type="line"/>
+      <point x="54" y="312" type="line"/>
+      <point x="54" y="202" type="line"/>
+      <point x="307" y="-183" type="line"/>
+    </contour>
+    <contour>
+      <point x="518" y="-62" type="line"/>
+      <point x="307" y="257" type="line"/>
+      <point x="518" y="577" type="line"/>
+      <point x="518" y="697" type="line"/>
+      <point x="265" y="312" type="line"/>
+      <point x="265" y="202" type="line"/>
+      <point x="518" y="-183" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>307</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-162" width="-21" />
+      <hstem pos="697" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

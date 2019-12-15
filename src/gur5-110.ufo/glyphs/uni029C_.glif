@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni029C" format="1">
+  <unicode hex="029C"/>
+  <advance width="516"/>
+  <outline>
+    <contour>
+      <point x="148" y="256" type="line"/>
+      <point x="148" y="392" type="line" smooth="yes"/>
+      <point x="148" y="447"/>
+      <point x="162" y="456"/>
+      <point x="212" y="456" type="curve"/>
+      <point x="212" y="470" type="line" name="hr01"/>
+      <point x="13" y="470" type="line"/>
+      <point x="13" y="456" type="line"/>
+      <point x="70" y="450"/>
+      <point x="77" y="440"/>
+      <point x="77" y="392" type="curve" smooth="yes"/>
+      <point x="77" y="86" type="line" smooth="yes"/>
+      <point x="77" y="19"/>
+      <point x="58" y="13"/>
+      <point x="13" y="13" type="curve"/>
+      <point x="13" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="212" y="13" type="line"/>
+      <point x="163" y="13"/>
+      <point x="148" y="28"/>
+      <point x="148" y="78" type="curve" smooth="yes"/>
+      <point x="148" y="224" type="line"/>
+      <point x="365" y="224" type="line"/>
+      <point x="365" y="86" type="line" smooth="yes"/>
+      <point x="365" y="21"/>
+      <point x="348" y="13"/>
+      <point x="302" y="13" type="curve"/>
+      <point x="302" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="13" type="line"/>
+      <point x="451" y="13"/>
+      <point x="438" y="28"/>
+      <point x="438" y="78" type="curve" smooth="yes"/>
+      <point x="438" y="392" type="line" smooth="yes"/>
+      <point x="438" y="453"/>
+      <point x="454" y="456"/>
+      <point x="500" y="456" type="curve"/>
+      <point x="500" y="470" type="line"/>
+      <point x="302" y="470" type="line"/>
+      <point x="302" y="456" type="line"/>
+      <point x="357" y="450"/>
+      <point x="365" y="442"/>
+      <point x="365" y="392" type="curve" smooth="yes"/>
+      <point x="365" y="256" type="line" name="hr02"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="21" width="-21" />
+      <hstem pos="224" width="246" />
+      <vstem pos="77" width="71" />
+      <vstem pos="365" width="73" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="21" width="-21" />
+      <hstem pos="224" width="32" />
+      <vstem pos="77" width="71" />
+      <vstem pos="365" width="73" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

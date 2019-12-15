@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_E0A7h" format="1">
+  <unicode hex="E0A7"/>
+  <advance width="60"/>
+  <outline>
+    <contour>
+      <point x="99" y="-49" type="line"/>
+      <point x="33" y="-72"/>
+      <point x="0" y="-104"/>
+      <point x="0" y="-143" type="curve" smooth="yes"/>
+      <point x="0" y="-184"/>
+      <point x="29" y="-216"/>
+      <point x="97" y="-241" type="curve"/>
+      <point x="102" y="-238" type="line"/>
+      <point x="51" y="-213"/>
+      <point x="33" y="-189"/>
+      <point x="33" y="-141" type="curve" smooth="yes"/>
+      <point x="33" y="-100"/>
+      <point x="51" y="-73"/>
+      <point x="103" y="-53" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-220" width="-21" />
+      <hstem pos="-49" width="-20" />
+      <vstem pos="0" width="33" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

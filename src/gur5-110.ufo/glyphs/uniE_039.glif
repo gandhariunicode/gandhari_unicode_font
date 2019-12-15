@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE039" format="1">
+  <unicode hex="E039"/>
+  <advance width="641"/>
+  <outline>
+    <contour>
+      <point x="623" y="694" type="line"/>
+      <point x="28" y="694" type="line"/>
+      <point x="28" y="516" type="line"/>
+      <point x="48" y="516" type="line"/>
+      <point x="72" y="631"/>
+      <point x="96" y="649"/>
+      <point x="211" y="649" type="curve" smooth="yes"/>
+      <point x="266" y="649" type="line"/>
+      <point x="266" y="114" type="line" smooth="yes"/>
+      <point x="266" y="39"/>
+      <point x="251" y="30"/>
+      <point x="173" y="20" type="curve"/>
+      <point x="173" y="0" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="469" y="20" type="line"/>
+      <point x="389" y="31"/>
+      <point x="376" y="38"/>
+      <point x="376" y="114" type="curve" smooth="yes"/>
+      <point x="376" y="649" type="line"/>
+      <point x="431" y="649" type="line" smooth="yes"/>
+      <point x="547" y="649"/>
+      <point x="567" y="630"/>
+      <point x="594" y="516" type="curve"/>
+      <point x="623" y="516" type="line"/>
+    </contour>
+    <contour>
+      <point x="180" y="-227" type="line"/>
+      <point x="191" y="-194"/>
+      <point x="212" y="-178"/>
+      <point x="243" y="-178" type="curve" smooth="yes"/>
+      <point x="286" y="-178"/>
+      <point x="344" y="-224"/>
+      <point x="377" y="-224" type="curve" smooth="yes" name="hr01"/>
+      <point x="441" y="-224"/>
+      <point x="487" y="-184"/>
+      <point x="496" y="-116" type="curve"/>
+      <point x="464" y="-116" type="line"/>
+      <point x="453" y="-148"/>
+      <point x="433" y="-164"/>
+      <point x="402" y="-164" type="curve" smooth="yes"/>
+      <point x="367" y="-164"/>
+      <point x="307" y="-118"/>
+      <point x="267" y="-118" type="curve" smooth="yes" name="hr02"/>
+      <point x="202" y="-118"/>
+      <point x="158" y="-160"/>
+      <point x="149" y="-227" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>173</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>469</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="-224" width="60" />
+      <hstem pos="21" width="-21" />
+      <hstem pos="649" width="45" />
+      <vstem pos="266" width="110" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="-206" width="-21" />
+      <hstem pos="-178" width="60" />
+      <hstem pos="21" width="-21" />
+      <hstem pos="649" width="45" />
+      <vstem pos="266" width="110" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

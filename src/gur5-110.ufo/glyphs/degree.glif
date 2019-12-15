@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="1">
+  <unicode hex="00B0"/>
+  <advance width="524"/>
+  <outline>
+    <contour>
+      <point x="262" y="708" type="line"/>
+      <point x="176" y="708"/>
+      <point x="104" y="637"/>
+      <point x="104" y="551" type="curve" smooth="yes"/>
+      <point x="104" y="465"/>
+      <point x="176" y="393"/>
+      <point x="262" y="393" type="curve" smooth="yes"/>
+      <point x="348" y="393"/>
+      <point x="420" y="465"/>
+      <point x="420" y="551" type="curve" smooth="yes"/>
+      <point x="420" y="637"/>
+      <point x="348" y="708"/>
+      <point x="262" y="708" type="curve"/>
+    </contour>
+    <contour>
+      <point x="262" y="665" type="line"/>
+      <point x="324" y="665"/>
+      <point x="377" y="613"/>
+      <point x="377" y="551" type="curve" smooth="yes"/>
+      <point x="377" y="486"/>
+      <point x="324" y="436"/>
+      <point x="262" y="436" type="curve" smooth="yes"/>
+      <point x="201" y="436"/>
+      <point x="147" y="486"/>
+      <point x="147" y="551" type="curve" smooth="yes"/>
+      <point x="147" y="612"/>
+      <point x="201" y="665"/>
+      <point x="262" y="665" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="393" width="43" />
+      <hstem pos="665" width="43" />
+      <vstem pos="104" width="43" />
+      <vstem pos="377" width="43" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

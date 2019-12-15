@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota" format="1">
+  <unicode hex="03B9"/>
+  <advance width="280"/>
+  <outline>
+    <contour>
+      <point x="278" y="114" type="line"/>
+      <point x="278" y="149" type="line"/>
+      <point x="253" y="149" type="line"/>
+      <point x="253" y="111" type="line" smooth="yes"/>
+      <point x="253" y="70"/>
+      <point x="244" y="25"/>
+      <point x="196" y="25" type="curve" smooth="yes"/>
+      <point x="168" y="25"/>
+      <point x="150" y="44"/>
+      <point x="150" y="73" type="curve" smooth="yes"/>
+      <point x="150" y="470" type="line"/>
+      <point x="61" y="470" type="line"/>
+      <point x="61" y="109" type="line" smooth="yes"/>
+      <point x="61" y="33"/>
+      <point x="88" y="-13"/>
+      <point x="169" y="-13" type="curve" smooth="yes"/>
+      <point x="253" y="-13"/>
+      <point x="278" y="37"/>
+      <point x="278" y="114" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-13" width="38" />
+      <hstem pos="470" width="-20" />
+      <vstem pos="61" width="89" />
+      <vstem pos="253" width="25" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

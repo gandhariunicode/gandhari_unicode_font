@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicron" format="1">
+  <unicode hex="039F"/>
+  <advance width="757"/>
+  <outline>
+    <contour>
+      <point x="722" y="346" type="line"/>
+      <point x="722" y="549"/>
+      <point x="587" y="708"/>
+      <point x="379" y="708" type="curve" smooth="yes"/>
+      <point x="170" y="708"/>
+      <point x="36" y="549"/>
+      <point x="36" y="346" type="curve" smooth="yes"/>
+      <point x="36" y="143"/>
+      <point x="170" y="-13"/>
+      <point x="379" y="-13" type="curve" smooth="yes"/>
+      <point x="587" y="-13"/>
+      <point x="722" y="143"/>
+      <point x="722" y="346" type="curve"/>
+    </contour>
+    <contour>
+      <point x="602" y="347" type="line"/>
+      <point x="602" y="205"/>
+      <point x="552" y="24"/>
+      <point x="379" y="24" type="curve" smooth="yes"/>
+      <point x="206" y="24"/>
+      <point x="156" y="205"/>
+      <point x="156" y="347" type="curve" smooth="yes"/>
+      <point x="156" y="486"/>
+      <point x="207" y="671"/>
+      <point x="379" y="671" type="curve" smooth="yes"/>
+      <point x="551" y="671"/>
+      <point x="602" y="486"/>
+      <point x="602" y="347" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-13" width="37" />
+      <hstem pos="671" width="37" />
+      <vstem pos="36" width="120" />
+      <vstem pos="602" width="120" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

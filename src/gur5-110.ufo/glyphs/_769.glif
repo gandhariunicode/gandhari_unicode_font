@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_769" format="1">
+  <unicode hex="205D"/>
+  <advance width="321"/>
+  <outline>
+    <contour>
+      <point x="221" y="648" type="line"/>
+      <point x="221" y="681"/>
+      <point x="195" y="708"/>
+      <point x="160" y="708" type="curve" smooth="yes"/>
+      <point x="128" y="708"/>
+      <point x="100" y="681"/>
+      <point x="100" y="648" type="curve" smooth="yes"/>
+      <point x="100" y="613"/>
+      <point x="128" y="587"/>
+      <point x="160" y="587" type="curve" smooth="yes"/>
+      <point x="195" y="587"/>
+      <point x="221" y="613"/>
+      <point x="221" y="648" type="curve"/>
+    </contour>
+    <contour>
+      <point x="221" y="48" type="line"/>
+      <point x="221" y="81"/>
+      <point x="195" y="108"/>
+      <point x="160" y="108" type="curve" smooth="yes"/>
+      <point x="128" y="108"/>
+      <point x="100" y="81"/>
+      <point x="100" y="48" type="curve" smooth="yes"/>
+      <point x="100" y="13"/>
+      <point x="128" y="-13"/>
+      <point x="160" y="-13" type="curve" smooth="yes"/>
+      <point x="195" y="-13"/>
+      <point x="221" y="13"/>
+      <point x="221" y="48" type="curve"/>
+    </contour>
+    <contour>
+      <point x="221" y="347" type="line"/>
+      <point x="221" y="380"/>
+      <point x="195" y="407"/>
+      <point x="160" y="407" type="curve" smooth="yes"/>
+      <point x="128" y="407"/>
+      <point x="100" y="380"/>
+      <point x="100" y="347" type="curve" smooth="yes"/>
+      <point x="100" y="312"/>
+      <point x="128" y="286"/>
+      <point x="160" y="286" type="curve" smooth="yes"/>
+      <point x="195" y="286"/>
+      <point x="221" y="312"/>
+      <point x="221" y="347" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-13" width="121" />
+      <hstem pos="286" width="121" />
+      <hstem pos="587" width="121" />
+      <vstem pos="100" width="121" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
