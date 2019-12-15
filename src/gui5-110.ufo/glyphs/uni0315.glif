@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0315" format="1">
+  <unicode hex="0315"/>
+  <outline>
+    <contour>
+      <point x="-84" y="453" type="line"/>
+      <point x="3" y="511"/>
+      <point x="50" y="551"/>
+      <point x="50" y="618" type="curve" smooth="yes"/>
+      <point x="50" y="665"/>
+      <point x="24" y="691"/>
+      <point x="-9" y="691" type="curve" smooth="yes"/>
+      <point x="-16" y="691"/>
+      <point x="-22" y="690"/>
+      <point x="-29" y="688" type="curve" smooth="yes"/>
+      <point x="-53" y="681"/>
+      <point x="-62" y="665"/>
+      <point x="-62" y="643" type="curve" smooth="yes"/>
+      <point x="-62" y="614"/>
+      <point x="-13" y="580"/>
+      <point x="-15" y="559" type="curve" smooth="yes"/>
+      <point x="-17" y="533"/>
+      <point x="-44" y="504"/>
+      <point x="-93" y="470" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="474" width="-21" />
+      <hstem pos="691" width="-20" />
+      <vstem pos="-62" width="112" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

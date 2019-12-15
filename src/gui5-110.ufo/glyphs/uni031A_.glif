@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni031A" format="1">
+  <unicode hex="031A"/>
+  <outline>
+    <contour>
+      <point x="-218" y="704" type="line"/>
+      <point x="16" y="704" type="line"/>
+      <point x="-29" y="534" type="line" name="hr01"/>
+      <point x="55" y="534" type="line"/>
+      <point x="110" y="745" type="line" name="hr02"/>
+      <point x="-207" y="745" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="534" width="211" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="704" width="41" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

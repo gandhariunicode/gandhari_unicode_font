@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <unicode hex="0167"/>
+  <advance width="289"/>
+  <outline>
+    <contour>
+      <point x="224" y="444" type="line"/>
+      <point x="253" y="551" type="line"/>
+      <point x="256" y="559"/>
+      <point x="253" y="566"/>
+      <point x="246" y="566" type="curve" smooth="yes"/>
+      <point x="240" y="566"/>
+      <point x="237" y="565"/>
+      <point x="231" y="557" type="curve" smooth="yes"/>
+      <point x="156" y="461"/>
+      <point x="59" y="431"/>
+      <point x="59" y="417" type="curve" smooth="yes"/>
+      <point x="59" y="416"/>
+      <point x="59" y="414"/>
+      <point x="60" y="412" type="curve"/>
+      <point x="137" y="412" type="line"/>
+      <point x="108" y="300" type="line"/>
+      <point x="26" y="300" type="line"/>
+      <point x="14" y="248" type="line"/>
+      <point x="94" y="248" type="line"/>
+      <point x="62" y="126" type="line"/>
+      <point x="56" y="95"/>
+      <point x="39" y="40"/>
+      <point x="39" y="28" type="curve" smooth="yes"/>
+      <point x="39" y="5"/>
+      <point x="60" y="-12"/>
+      <point x="88" y="-12" type="curve" smooth="yes"/>
+      <point x="136" y="-12"/>
+      <point x="171" y="18"/>
+      <point x="236" y="114" type="curve"/>
+      <point x="222" y="121" type="line"/>
+      <point x="172" y="57"/>
+      <point x="156" y="40"/>
+      <point x="138" y="40" type="curve" smooth="yes"/>
+      <point x="129" y="40"/>
+      <point x="122" y="48"/>
+      <point x="122" y="60" type="curve" smooth="yes"/>
+      <point x="122" y="61"/>
+      <point x="122" y="62"/>
+      <point x="173" y="248" type="curve"/>
+      <point x="268" y="248" type="line"/>
+      <point x="281" y="300" type="line"/>
+      <point x="186" y="300" type="line"/>
+      <point x="215" y="412" type="line"/>
+      <point x="301" y="412" type="line"/>
+      <point x="307" y="444" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-12" width="52" />
+      <hstem pos="248" width="52" />
+      <hstem pos="412" width="32" />
+      <hstem pos="566" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

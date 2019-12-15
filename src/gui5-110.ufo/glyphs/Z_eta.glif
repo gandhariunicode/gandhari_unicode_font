@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zeta" format="1">
+  <unicode hex="0396"/>
+  <advance width="732"/>
+  <outline>
+    <contour>
+      <point x="649" y="180" type="line"/>
+      <point x="626" y="180" type="line"/>
+      <point x="574" y="78"/>
+      <point x="532" y="39"/>
+      <point x="420" y="39" type="curve" smooth="yes"/>
+      <point x="157" y="39" type="line"/>
+      <point x="729" y="664" type="line"/>
+      <point x="732" y="678" type="line"/>
+      <point x="193" y="678" type="line"/>
+      <point x="157" y="503" type="line"/>
+      <point x="162" y="503" type="line"/>
+      <point x="204" y="611"/>
+      <point x="256" y="639"/>
+      <point x="363" y="639" type="curve" smooth="yes"/>
+      <point x="589" y="639" type="line"/>
+      <point x="11" y="14" type="line"/>
+      <point x="9" y="0" type="line"/>
+      <point x="587" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="0" width="39" />
+      <hstem pos="639" width="39" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

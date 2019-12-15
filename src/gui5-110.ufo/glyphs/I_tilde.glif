@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itilde" format="1">
+  <unicode hex="0128"/>
+  <advance width="345"/>
+  <outline>
+    <contour>
+      <point x="-9" y="0" type="line"/>
+      <point x="245" y="0" type="line"/>
+      <point x="245" y="17" type="line"/>
+      <point x="186" y="24"/>
+      <point x="175" y="30"/>
+      <point x="175" y="59" type="curve" smooth="yes"/>
+      <point x="175" y="78"/>
+      <point x="177" y="91"/>
+      <point x="186" y="124" type="curve" smooth="yes"/>
+      <point x="313" y="585" type="line"/>
+      <point x="329" y="646"/>
+      <point x="341" y="649"/>
+      <point x="399" y="661" type="curve"/>
+      <point x="399" y="678" type="line"/>
+      <point x="143" y="678" type="line"/>
+      <point x="143" y="661" type="line"/>
+      <point x="202" y="653"/>
+      <point x="215" y="646"/>
+      <point x="215" y="617" type="curve" smooth="yes"/>
+      <point x="215" y="602"/>
+      <point x="210" y="578"/>
+      <point x="203" y="552" type="curve" smooth="yes"/>
+      <point x="75" y="93" type="line"/>
+      <point x="60" y="32"/>
+      <point x="48" y="28"/>
+      <point x="-9" y="17" type="curve"/>
+    </contour>
+    <contour>
+      <point x="459" y="841" type="line"/>
+      <point x="447" y="807"/>
+      <point x="433" y="795"/>
+      <point x="407" y="795" type="curve" smooth="yes"/>
+      <point x="380" y="795"/>
+      <point x="283" y="840"/>
+      <point x="252" y="840" type="curve" smooth="yes" name="hr01"/>
+      <point x="198" y="840"/>
+      <point x="169" y="810"/>
+      <point x="149" y="731" type="curve"/>
+      <point x="178" y="731" type="line"/>
+      <point x="189" y="764"/>
+      <point x="205" y="778"/>
+      <point x="232" y="778" type="curve" smooth="yes"/>
+      <point x="249" y="778"/>
+      <point x="275" y="771"/>
+      <point x="330" y="749" type="curve" smooth="yes"/>
+      <point x="357" y="738"/>
+      <point x="377" y="733"/>
+      <point x="389" y="733" type="curve" smooth="yes" name="hr02"/>
+      <point x="439" y="733"/>
+      <point x="473" y="771"/>
+      <point x="488" y="841" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="21" width="-21" />
+      <hstem pos="678" width="-20" />
+      <hstem pos="778" width="62" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="21" width="-21" />
+      <hstem pos="678" width="-20" />
+      <hstem pos="733" width="62" />
+      <hstem pos="841" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

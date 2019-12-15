@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foursuperior" format="1">
+  <unicode hex="2074"/>
+  <advance width="373"/>
+  <outline>
+    <contour>
+      <point x="362" y="562" type="line"/>
+      <point x="303" y="562" type="line"/>
+      <point x="379" y="833" type="line"/>
+      <point x="353" y="833" type="line"/>
+      <point x="94" y="564" type="line"/>
+      <point x="81" y="523" type="line"/>
+      <point x="244" y="523" type="line"/>
+      <point x="213" y="412" type="line"/>
+      <point x="262" y="412" type="line"/>
+      <point x="291" y="521" type="line"/>
+      <point x="354" y="521" type="line"/>
+    </contour>
+    <contour>
+      <point x="253" y="562" type="line"/>
+      <point x="120" y="562" type="line"/>
+      <point x="310" y="763" type="line"/>
+      <point x="312" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="433" width="-21" />
+      <hstem pos="523" width="39" />
+      <hstem pos="833" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

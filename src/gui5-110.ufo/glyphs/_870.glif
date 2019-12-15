@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_870" format="1">
+  <unicode hex="E023"/>
+  <advance width="479"/>
+  <outline>
+    <contour>
+      <point x="490" y="671" type="line"/>
+      <point x="394" y="211" type="line"/>
+      <point x="-3" y="65" type="line"/>
+      <point x="-16" y="0" type="line"/>
+      <point x="381" y="146" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="554" y="671" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="21" width="-21" />
+      <hstem pos="671" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

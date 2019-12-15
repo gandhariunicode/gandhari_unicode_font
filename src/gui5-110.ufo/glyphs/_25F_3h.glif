@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_25F3h" format="1">
+  <unicode hex="25F3"/>
+  <advance width="694"/>
+  <outline>
+    <contour>
+      <point x="144" y="694" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="694" y="0" type="line"/>
+      <point x="838" y="694" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="644" type="line"/>
+      <point x="455" y="644" type="line"/>
+      <point x="388" y="322" type="line"/>
+      <point x="710" y="322" type="line"/>
+      <point x="654" y="50" type="line"/>
+      <point x="60" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="777" y="644" type="line"/>
+      <point x="721" y="372" type="line"/>
+      <point x="449" y="372" type="line"/>
+      <point x="505" y="644" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>694</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>644</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>50</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>694</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>50</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem3 stem3List="0,50,322,50,644,50" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

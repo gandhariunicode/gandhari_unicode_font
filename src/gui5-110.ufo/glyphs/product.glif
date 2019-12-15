@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product" format="1">
+  <unicode hex="220F"/>
+  <advance width="698"/>
+  <outline>
+    <contour>
+      <point x="145" y="767" type="line"/>
+      <point x="133" y="710" type="line"/>
+      <point x="222" y="710" type="line"/>
+      <point x="66" y="-41" type="line"/>
+      <point x="-23" y="-41" type="line"/>
+      <point x="-34" y="-97" type="line"/>
+      <point x="218" y="-97" type="line"/>
+      <point x="230" y="-41" type="line"/>
+      <point x="143" y="-41" type="line"/>
+      <point x="298" y="710" type="line"/>
+      <point x="604" y="710" type="line"/>
+      <point x="448" y="-41" type="line"/>
+      <point x="359" y="-41" type="line"/>
+      <point x="348" y="-97" type="line"/>
+      <point x="601" y="-97" type="line"/>
+      <point x="613" y="-41" type="line"/>
+      <point x="525" y="-41" type="line"/>
+      <point x="680" y="710" type="line"/>
+      <point x="768" y="710" type="line"/>
+      <point x="780" y="767" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-97" width="56" />
+      <hstem pos="710" width="57" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

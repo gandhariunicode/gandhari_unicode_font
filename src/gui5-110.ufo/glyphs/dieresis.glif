@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <unicode hex="00A8"/>
+  <advance width="345"/>
+  <outline>
+    <contour>
+      <point x="163" y="630" type="line"/>
+      <point x="134" y="630"/>
+      <point x="110" y="606"/>
+      <point x="110" y="579" type="curve" smooth="yes"/>
+      <point x="110" y="550"/>
+      <point x="134" y="528"/>
+      <point x="162" y="528" type="curve" smooth="yes"/>
+      <point x="190" y="528"/>
+      <point x="212" y="550"/>
+      <point x="212" y="578" type="curve" smooth="yes"/>
+      <point x="212" y="604"/>
+      <point x="189" y="630"/>
+      <point x="163" y="630" type="curve"/>
+    </contour>
+    <contour>
+      <point x="371" y="630" type="line"/>
+      <point x="341" y="630"/>
+      <point x="319" y="606"/>
+      <point x="319" y="579" type="curve" smooth="yes"/>
+      <point x="319" y="550"/>
+      <point x="341" y="528"/>
+      <point x="370" y="528" type="curve" smooth="yes"/>
+      <point x="398" y="528"/>
+      <point x="421" y="550"/>
+      <point x="421" y="578" type="curve" smooth="yes"/>
+      <point x="421" y="604"/>
+      <point x="397" y="630"/>
+      <point x="371" y="630" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="528" width="102" />
+      <vstem pos="110" width="102" />
+      <vstem pos="319" width="102" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

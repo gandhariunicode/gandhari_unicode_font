@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0313" format="1">
+  <unicode hex="0313"/>
+  <outline>
+    <contour>
+      <point x="-214" y="453" type="line"/>
+      <point x="-127" y="511"/>
+      <point x="-80" y="551"/>
+      <point x="-80" y="618" type="curve" smooth="yes"/>
+      <point x="-80" y="665"/>
+      <point x="-106" y="691"/>
+      <point x="-139" y="691" type="curve" smooth="yes"/>
+      <point x="-146" y="691"/>
+      <point x="-152" y="690"/>
+      <point x="-159" y="688" type="curve" smooth="yes"/>
+      <point x="-183" y="681"/>
+      <point x="-192" y="665"/>
+      <point x="-192" y="643" type="curve" smooth="yes"/>
+      <point x="-192" y="614"/>
+      <point x="-143" y="580"/>
+      <point x="-145" y="559" type="curve" smooth="yes"/>
+      <point x="-147" y="533"/>
+      <point x="-174" y="504"/>
+      <point x="-223" y="470" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="474" width="-21" />
+      <hstem pos="691" width="-20" />
+      <vstem pos="-192" width="112" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

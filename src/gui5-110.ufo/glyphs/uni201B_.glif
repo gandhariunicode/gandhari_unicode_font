@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni201B" format="1">
+  <unicode hex="201B"/>
+  <advance width="345"/>
+  <outline>
+    <contour>
+      <point x="225" y="454" type="line"/>
+      <point x="212" y="486"/>
+      <point x="206" y="514"/>
+      <point x="206" y="534" type="curve" smooth="yes"/>
+      <point x="206" y="628"/>
+      <point x="313" y="563"/>
+      <point x="313" y="639" type="curve" name="hr01"/>
+      <point x="311" y="667"/>
+      <point x="289" y="692"/>
+      <point x="254" y="692" type="curve" smooth="yes"/>
+      <point x="216" y="692"/>
+      <point x="174" y="643"/>
+      <point x="174" y="571" type="curve" smooth="yes"/>
+      <point x="174" y="530"/>
+      <point x="186" y="488"/>
+      <point x="206" y="444" type="curve" name="hr02"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="465" width="-21" />
+      <hstem pos="692" width="-20" />
+      <vstem pos="174" width="139" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="465" width="-21" />
+      <hstem pos="692" width="-20" />
+      <vstem pos="174" width="32" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

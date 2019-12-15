@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equivalence" format="1">
+  <unicode hex="2261"/>
+  <advance width="573"/>
+  <outline>
+    <contour>
+      <point x="83" y="442" type="line"/>
+      <point x="69" y="377" type="line"/>
+      <point x="580" y="377" type="line"/>
+      <point x="594" y="442" type="line"/>
+    </contour>
+    <contour>
+      <point x="22" y="151" type="line"/>
+      <point x="8" y="85" type="line"/>
+      <point x="519" y="85" type="line"/>
+      <point x="533" y="151" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="296" type="line"/>
+      <point x="38" y="231" type="line"/>
+      <point x="549" y="231" type="line"/>
+      <point x="563" y="296" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="85" width="66" />
+      <hstem pos="231" width="65" />
+      <hstem pos="377" width="65" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
